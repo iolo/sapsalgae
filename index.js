@@ -131,3 +131,4 @@ async function collectFiles(parent) {
   return result;
 }
 
+module.exports = { main };
