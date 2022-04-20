@@ -1,0 +1,26 @@
+{
+  "name": "@iolo/sapsalgae",
+  "version": "0.0.1",
+  "description": "SapSalGae is an yet another fast and simple Static Site Generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iolo/sapsalgae.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iolo/sapsalgae/issues"
+  },
+  "homepage": "https://github.com/iolo/sapsalgae#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "front-matter": "^4.0.2",
+    "markdown": "^0.5.0",
+    "marked": "^4.0.14"
+  }
+}
